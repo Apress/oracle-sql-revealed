@@ -1,0 +1,1 @@
+SELECT "TR"."ID" "ID", "TR"."NAME" "NAME" FROM "TR" WHERE "TR"."ID" = NVL(:B1, "TR"."ID");

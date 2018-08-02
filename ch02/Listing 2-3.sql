@@ -1,0 +1,1 @@
+SELECT "T1"."ID" "ID","T1"."NAME" "NAME" FROM "T2", "T1" WHERE "T1"."ID"="T2"."ID";

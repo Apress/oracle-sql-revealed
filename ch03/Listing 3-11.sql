@@ -1,0 +1,1 @@
+max(version) over (partition by dt) latest_version
